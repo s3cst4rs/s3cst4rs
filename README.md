@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/s3cst4rs/s3cst4rs/blob/main/png.png" width='553px' height='536px'>
+<img align="right" src="https://github.com/s3cst4rs/s3cst4rs/blob/main/png.png">
 
 👋 Hi, I’m @s3cst4rs
 
